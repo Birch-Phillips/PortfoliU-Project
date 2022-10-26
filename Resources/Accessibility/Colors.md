@@ -15,6 +15,8 @@ The short answer is everybody! Ensuring that colors are easy to see and read is 
 
 ## Common pitfalls
 
+Colorblindness can effect people in all areas of life, from reading color coded information to pursuing certain careers. Color coded information presented in certain color scheems, expecially when contrast is low, can be hard or impossible for some color blind people to interpret. When diferentiating informatin by color, for example in certain charts or graphs, it is important to select a color scheem that facilitates readability.
+
 ## Other resources
 
 This is a tool to check the contrast between colors. Typically colors with high contrast are easier to see when layered. Ex: Black on white.
